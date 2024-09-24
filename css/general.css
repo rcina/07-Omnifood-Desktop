@@ -197,6 +197,9 @@ body {
   /* use transparent with same border bottom */
   border-bottom: 1px solid transparent;
 }
+
+/* HELPER CLASSES */
+
 .margin-right-sm {
   margin-right: 1.6rem !important;
 }
@@ -205,6 +208,9 @@ body {
   margin-bottom: 4.8rem !important;
 }
 
+.center-text {
+  text-align: center;
+}
 strong {
   font-weight: 500;
 }
