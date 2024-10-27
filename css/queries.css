@@ -123,6 +123,7 @@
   /* MOBILE NAVIGATION */
   .btn-mobile-nav {
     display: block;
+    z-index: 1000;
   }
 
   .main-nav {
@@ -150,7 +151,7 @@
     pointer-events: none;
 
     /* 3) Hide it from screen readers */
-    visibiltiy: hidden;
+    visibility: hidden;
   }
 
   .nav-open .main-nav {
